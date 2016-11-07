@@ -50,8 +50,8 @@ article p {
 }
 
 article img {
-  float: left;
-  margin: 10px 30px 10px 10px;
+  /*float: left;*/
+  margin: 20px 20px 20px 20px;
   padding: 0;
 }
 
@@ -178,8 +178,8 @@ footer p {
 
 }
 
-#content-box{
-
+#main-content p{
+  text-align: center;
 }
 
 #content-box article form {
