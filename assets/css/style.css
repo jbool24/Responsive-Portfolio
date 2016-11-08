@@ -45,7 +45,7 @@ article {
 }
 
 article div {
-  
+
 }
 
 article p {
@@ -96,6 +96,10 @@ button {
   background-color: #4aaaa5;
 }
 
+button:hover{
+  background-color: #cae8e6;
+}
+
 label {
   display: block;
   width: 100%;
@@ -107,6 +111,7 @@ label {
 input {
   height:40px;
   width: 100%;
+  font: 20px;
   border-color: ;
   margin: 10px 0 10px 0;
 };
