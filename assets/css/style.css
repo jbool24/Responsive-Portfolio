@@ -52,6 +52,7 @@ article p {
   display: inline;
   font-size: 18px;
   line-height: 35px;
+  /*padding: 20px;*/
 }
 
 article img {
@@ -112,8 +113,8 @@ input {
   height:40px;
   width: 100%;
   font: 20px;
-  border-color: ;
   margin: 10px 0 10px 0;
+  padding: 0;
 };
 
 textarea {
