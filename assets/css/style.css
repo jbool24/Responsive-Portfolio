@@ -45,7 +45,7 @@ article {
 }
 
 article div {
-
+  /*position: absolute;*/
 }
 
 article p {
@@ -131,7 +131,7 @@ footer {
   /*position: fixed;
   bottom: 0px;
   left: 0px;*/
-  height: 90px;
+  height: 80px;
   width: 100%;
   text-align: center;
   margin: 20px 0 0 0 ;
@@ -155,6 +155,7 @@ footer p {
 
 .images {
   position: relative;
+  width: 250px;
 }
 
 p.bannerText {
@@ -234,7 +235,7 @@ p.bannerText {
   width: 960px;
   min-height: 100%;
   /*margin: 10px 16%;*/
-  margin: 0 auto -80px;
+  margin: 0 auto -80px auto;
   padding: 0;
 }
 
