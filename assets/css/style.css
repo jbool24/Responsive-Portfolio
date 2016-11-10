@@ -249,7 +249,7 @@ p.bannerText {
 #contact-area {
   float: right;
   width: 270px;
-  height: 180px;
+  height: auto;
   background-color: #fff;
   margin: 5px;
 }
